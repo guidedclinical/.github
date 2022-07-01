@@ -1,5 +1,6 @@
-<img src="https://github.com/guidedclinical/.github/blob/e4de2283337b5db04e0e40a5a2084786fee30082/profile/GuidedClinicalSolutions_HorizontalLockup_FullColor_White_Background.png" height="150" width="599" alt="Guided Clinical Solutions Logo"/>
-================================================
+<p align="center">
+  <img src="https://github.com/guidedclinical/.github/blob/e4de2283337b5db04e0e40a5a2084786fee30082/profile/GuidedClinicalSolutions_HorizontalLockup_FullColor_White_Background.png" height="150" width="599" alt="Guided Clinical Solutions Logo"/>
+</p>
 
 Improving patient outcomes through safer care
 ------------------------------------------------
